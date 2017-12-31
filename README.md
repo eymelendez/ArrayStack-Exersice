@@ -10,5 +10,6 @@ the stack after each step of the algorithm. Assume the following values for the 
 a = 7, b = 3, c = 12, d = –5, e = 1.
 
 a.    a b c + – 
+
 b.    a b c   – d * +    
 c.    a b + c – d e * +   
